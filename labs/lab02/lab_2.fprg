@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="lab_2"/>
+        <attribute name="authors" value="User"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-07-15 12:22:36 PM"/>
+        <attribute name="created" value="VXNlcjtMQVBUT1AtN0oxSFMzRjM7MjAyNS0wNy0xNTsxMToyNDowMCBBTTsyNjg4"/>
+        <attribute name="edited" value="VXNlcjtMQVBUT1AtN0oxSFMzRjM7MjAyNS0wNy0xNTsxMjoyMjozNiBQTTszOzI4MjE="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="mealPrice" type="Integer" array="False" size=""/>
+            <input variable="mealPrice"/>
+            <declare name="FinalPrice" type="Integer" array="False" size=""/>
+            <output expression="FinalPrice" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
